@@ -26,15 +26,23 @@ This repository contains two parts:
 
 - Dashboard / Upload
 
-![Dashboard](./docs/images/dashboard.png)
+![Dashboard](./ai-resume-analyzer/frontend/public/Dashboard.png)
+
+- Dashboard Upload
+
+![Dashboard](./ai-resume-analyzer/frontend/public/Dashboar%20Upload.png)
+
+- Upload Page
+
+![Dashboard](./ai-resume-analyzer/frontend/public/Upload%20Page.png)
 
 - Upload dialog (file + job description)
 
-![Upload](./docs/images/upload.png)
+![Upload](./ai-resume-analyzer/frontend/public/upload%20JD.png)
 
 - Detailed resume insights
 
-![Resume Insights](./docs/images/resume-insights.png)
+![Resume Insights](./ai-resume-analyzer/frontend/public/Analyze.png)
 
 ---
 
@@ -247,11 +255,3 @@ curl -X POST "${VITE_BACKEND_URL:-http://localhost:5000}/api/docs/upload" \
 This project is provided as-is for demonstration and development. Add a license file as needed (e.g., MIT) and update `package.json` metadata accordingly.
 
 ---
-
-If you'd like, I can:
-
-- Add the screenshot image files and wire them into the README.
-- Add a `docker-compose.yml` to run backend + MongoDB + frontend.
-- Add tests or a CI workflow for linting and basic smoke tests.
-
-If you want any of the above, tell me which and I'll implement it next.
