@@ -22,8 +22,6 @@ This repository contains two parts:
 
 ## Screenshots
 
-> Replace these with actual screenshots saved under `frontend/public/screenshots/` or `docs/images/`.
-
 - Dashboard / Upload
 
 ![Dashboard](./ai-resume-analyzer/frontend/public/Dashboard.png)
@@ -59,7 +57,7 @@ Prerequisites:
 
 ```powershell
 git clone https://github.com/Dinakar2329/ai-document-analyzer.git
-cd ai-document-analyzer
+cd ai-resume-analyzer
 ```
 
 2. Backend setup
